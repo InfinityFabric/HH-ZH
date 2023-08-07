@@ -1,0 +1,13 @@
+top quark : 172.5+-0.1 GeV
+other quarks : 0 GeV
+Mw : 80.379(12) GeV
+Mz : 91.1876(21) GeV
+
+reduced mass and energy scan consists:
+sqrt s(TeV): 13, 13.6, 14
+MH(GeV)    : 124.6, 125, 125.09, 125.38, 125.6, 126
+
+QCD Scale Uncertainty:
+1/2 MH < mu_R, mu_F < 2 MH
+
+QCD alphaS(Mz) : 0.1180+-0.001 
